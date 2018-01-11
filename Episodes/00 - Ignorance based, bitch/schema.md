@@ -14,12 +14,12 @@
 	 * [Gaming disorder to be named a mental health condition for the first time](http://www.independent.co.uk/life-style/health-and-families/gaming-disorder-mental-health-condition-video-games-addiction-a8121876.html)
 	 * [Luke's LAST WAN Show as an LMG Employee!! - WAN Show Dec. 29 2017 (42:43)](https://www.youtube.com/watch?v=L35mtzCINQA&t=2574s)
 
-* **Apple ralentiza sus iPhones antiguos**
+* **Apple ralentiza sus iPhone antiguos**
 	* [WAN Show Dec. 29 2017 (03:09)](https://www.twitch.tv/videos/211811940)
 	* [Yes, old iPhones do slow down, but it’s not what you think](https://finance.yahoo.com/news/yes-old-iphones-slow-down-not-think-210109678.html)
 	* [Luke's LAST WAN Show as an LMG Employee!! - WAN Show Dec. 29 2017 (18:43)](https://www.youtube.com/watch?v=L35mtzCINQA&t=2574s)
 
 ## References
 
- - **Suprapixel (Guillermo Leoz/Nicolas Fischman):** https://www.youtube.com/channel/UCwGX2cE21VPBEJ49hcprP9w
+ - **Suprapixel (Guillermo Leoz/Nicolás Fischman):** https://www.youtube.com/channel/UCwGX2cE21VPBEJ49hcprP9w
  - **LinusTechTips (Linus Sebastian):** https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw
