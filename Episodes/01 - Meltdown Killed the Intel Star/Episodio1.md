@@ -1,10 +1,10 @@
-# ReferenceHub podcast | Episode 01 - Meltdown killed the Intel Star
+# ReferenceHub podcast | Episode 01 - Meltdown killed the Intel star
 
 # Listen
 
 # Sources
 
-* **Meldown/Specter**
+* **Meltdown/Spectre**
 
   ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20Killed%20the%20Intel%20Star/meltdown-spectre-kernel-vulnerability.png "Meldown & Specter")
   ###### Source: [Meltdown and Spectre CPU Flaws Affect Intel, ARM, AMD Processors](https://thehackernews.com/2018/01/meltdown-spectre-vulnerability.html)
@@ -41,4 +41,4 @@
 
 # References
 
-* **Piso 13(elCuervo y pote)** : [https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2](https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2)
+* **Piso13(elCuervo y pote)** : [https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2](https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2)
