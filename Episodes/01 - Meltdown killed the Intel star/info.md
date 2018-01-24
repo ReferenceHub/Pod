@@ -45,5 +45,5 @@
 
 # Music
 
-  Intro and outro by [HookSounds](https://www.hooksounds.com)
+  Intro and outro by [HookSounds](https://www.hooksounds.com)  
   Track: Energetic Rock
