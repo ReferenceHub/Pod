@@ -6,7 +6,7 @@
 
 * **Meltdown/Spectre**
 
-  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20Killed%20the%20Intel%20Star/meltdown-spectre-kernel-vulnerability.png "Meldown & Specter")
+  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20killed%20the%20Intel%20star/meltdown-spectre-kernel-vulnerability.png "Meltdown & Specter")
   ###### Source: [Meltdown and Spectre CPU Flaws Affect Intel, ARM, AMD Processors](https://thehackernews.com/2018/01/meltdown-spectre-vulnerability.html)
 
   * [A Critical Intel Flaw Breaks Basic Security for Most Computers](https://www.wired.com/story/critical-intel-flaw-breaks-basic-security-for-most-computers/)
@@ -23,13 +23,13 @@
 
 * **OS Market Share**
 
-  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20Killed%20the%20Intel%20Star/OsMarketShare.png "Porcentaje de uso entre Windows, MacOS y Linux")
+  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20killed%20the%20Intel%20star/OsMarketShare.png "Porcentaje de uso entre Windows, MacOS y Linux")
   ###### Source: [Operating System Market Share](https://www.netmarketshare.com/operating-system-market-share.aspx?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22platform%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22platformsDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222017-01%22%2C%22dateEnd%22%3A%222017-12%22%2C%22segments%22%3A%22-1000%22%7D)
   * [Operating System Market Share](https://www.netmarketshare.com/operating-system-market-share.aspx?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22platform%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22platformsDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222017-01%22%2C%22dateEnd%22%3A%222017-12%22%2C%22segments%22%3A%22-1000%22%7D)
 
 * **Updates, versioning y changelogs**
 
-  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20Killed%20the%20Intel%20Star/UpdateAdvice.png "Consejo antes de actualizar")
+  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20killed%20the%20Intel%20star/UpdateAdvice.png "Consejo antes de actualizar")
   ###### Source: [Upgrading Ruby on Rails](http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html#upgrading-from-rails-4-2-to-rails-5-0)
 
   * [CouchDB 2.1.0 fails to start under macOS High Sierra](https://github.com/apache/couchdb/issues/840)
@@ -41,4 +41,9 @@
 
 # References
 
-* **Piso13(elCuervo y pote)** : [https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2](https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2)
+* **Piso13 (elCuervo y pote)** : [https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2](https://itunes.apple.com/us/podcast/piso13/id1090540358?mt=2)
+
+# Music
+
+  Intro and outro by [HookSounds](https://www.hooksounds.com)
+  Track: Energetic Rock
