@@ -1,6 +1,8 @@
 # ReferenceHub podcast | Episode 00 - Ignorance based, bitch
 
 ## Listen
+ - **Spreaker:** https://www.spreaker.com/user/8193216/piloto
+ - **iTunes:** https://itunes.apple.com/pe/podcast/episode-00-ignorance-based-bitch/id1338395451?i=1000400329326&l=en&mt=2
 
 ## Sources
 
