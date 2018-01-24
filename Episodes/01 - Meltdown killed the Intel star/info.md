@@ -6,7 +6,7 @@
 
 * **Meltdown/Spectre**
 
-  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20killed%20the%20Intel%20star/meltdown-spectre-kernel-vulnerability.png "Meltdown & Specter")
+  ![alt-text](https://github.com/ReferenceHub/Pod/blob/episode-1/Episodes/01%20-%20Meltdown%20killed%20the%20Intel%20star/meltdown-spectre-kernel-vulnerability.png "Meltdown & Spectre")
   ###### Source: [Meltdown and Spectre CPU Flaws Affect Intel, ARM, AMD Processors](https://thehackernews.com/2018/01/meltdown-spectre-vulnerability.html)
 
   * [A Critical Intel Flaw Breaks Basic Security for Most Computers](https://www.wired.com/story/critical-intel-flaw-breaks-basic-security-for-most-computers/)
