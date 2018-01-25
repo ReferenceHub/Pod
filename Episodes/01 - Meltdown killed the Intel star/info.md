@@ -1,6 +1,7 @@
 # ReferenceHub podcast | Episode 01 - Meltdown killed the Intel star
 
 # Listen
+- **Spreaker:** https://www.spreaker.com/user/8193216/episode-01
 
 # Sources
 
