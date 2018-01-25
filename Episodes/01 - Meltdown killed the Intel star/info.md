@@ -2,6 +2,7 @@
 
 # Listen
 - **Spreaker:** https://www.spreaker.com/user/8193216/episode-01
+- **iTunes:** https://itunes.apple.com/pe/podcast/episode-01-meltdown-killed-the-intel-star/id1338395451?i=1000400659279&l=en&mt=2
 
 # Sources
 
