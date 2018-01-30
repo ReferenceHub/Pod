@@ -2,6 +2,7 @@
 
 # Listen
 - **Spreaker:** https://www.spreaker.com/user/8193216/episode-02
+- **iTunes:** https://itunes.apple.com/pe/podcast/episode-02-the-paradox-of-choice/id1338395451?i=1000401030084&l=en&mt=2
 
 # Sources
 
