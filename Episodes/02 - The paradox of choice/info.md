@@ -28,8 +28,7 @@
 
 * **To Vim or not to Vim that is the question**
 
-  ![Alt Text](https://imgur.com/CVpc7nD.gif "How it feels to use Vim")
-  <img src="./vimExperience.gif?raw=true" width="100px">
+  <img src="./vimExperience.gif?raw=true" width="300px">
 
   * [What justifies the use of an IDE versus a standard editor?](https://softwareengineering.stackexchange.com/questions/20950/what-justifies-the-use-of-an-ide-versus-a-standard-editor)
   * [devRant - Vim Rant](https://devrant.com/rants/137997/are-people-using-vim-doing-it-for-the-sake-of-it-is-there-such-a-thing-as-a-vim)
