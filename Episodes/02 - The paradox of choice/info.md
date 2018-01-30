@@ -7,6 +7,9 @@
 # Sources
 
 * **News Section**
+* [Amazon Go](http://whnt.com/2018/01/28/inside-amazon-go-the-store-of-the-future/)
+* [Intel promete nuevos chips para este año (Spectre/Meltdown proof)](https://www.engadget.com/2018/01/26/intel-spectre-meltdown-chips/)
+* [Senador de Washington quiere regular las loot boxes](https://www.engadget.com/2018/01/25/washington-state-senator-regulate-loot-boxes/)
 
 * **¿Por qué no puedo ser del JS set?**
 
