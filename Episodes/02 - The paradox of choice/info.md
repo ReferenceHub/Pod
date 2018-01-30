@@ -1,8 +1,7 @@
 # ReferenceHub podcast | Episode 02 - The paradox of choice
 
 # Listen
-- **Spreaker:** https://www.spreaker.com/user/8193216/episode-01
-- **iTunes:** https://itunes.apple.com/pe/podcast/episode-01-meltdown-killed-the-intel-star/id1338395451?i=1000400659279&l=en&mt=2
+- **Spreaker:** https://www.spreaker.com/user/8193216/episode-02
 
 # Sources
 
@@ -26,7 +25,7 @@
   * [Why I Dislike CoreData](http://gopalkri.com/2017/04/26/Why-I-Dislike-Coredata/)
   * [Local Storage Shootout, AKA We Hate Core Data](http://sharedinstance.com/7)
 
-* **To Vim or not to Vim that is the question**
+* **To Vim or not to Vim: that is the question**
 
   <img src="./vimExperience.gif?raw=true" width="300px">
 
