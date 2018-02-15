@@ -28,7 +28,7 @@
 * **Cosmos: A Spacetime Odyssey (Neil deGrasse Tyson)**: https://www.netflix.com/pe-en/title/80004448
 * **Cosmos: A Personal Voyage (Carl Sagan)**: https://topdocumentaryfilms.com/cosmos/
 * **CdeCiencia (El Sueño Interestelar)**: https://www.youtube.com/watch?v=83ySyEGTYdM
-* **SmarterEveryDay (The Incredible Sounds of the Falcon Heavy Launch)**: https://www.youtube.com/watch?v=ImoQqNyRL8Y&t=22s
+* **SmarterEveryDay (The Incredible Sounds of the Falcon Heavy Launch)**: https://www.youtube.com/watch?v=ImoQqNyRL8Y
 
 # Music
 
