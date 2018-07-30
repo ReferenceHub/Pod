@@ -1,2 +1,2 @@
 # Pod
-ReferenceHub podcast
+Techies podcast
