@@ -1,13 +1,13 @@
-# TXP | Episode 04 - The price of waiting
+# TXP | Episode 04 - "Me veras volver"
 
 # Listen
 
 - **Anchor.fm:**  [TXP | Anchor - The easiest way to start a podcast](https://anchor.fm/txpod)
-- **Apple Podcast** [TXP de Kevin Martin | Herbert Videla en Apple Podcasts](https://itunes.apple.com/pe/podcast/txp/id1338395451?mt=2)
+- **Apple Podcasts** [TXP de Kevin Martin | Herbert Videla en Apple Podcasts](https://itunes.apple.com/pe/podcast/txp/id1338395451?mt=2)
 
 # Sources
 
-* **Google fined with 5 billons dollars by the EU**
+* **Google fined with 5 billon dollars by the EU**
 	* [Google fined a record $5 billion by the EU for Android antitrust violations - The Verge](https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust)
 	* [Google Fined Record $5 Billion by EU, Given 90 Days to Stop ‘Illegal Practices’ - Bloomberg](https://www.bloomberg.com/news/articles/2018-07-17/google-said-to-have-11th-hour-call-with-eu-ahead-of-android-fine)
 - **The (not) great moment of Facebook**
