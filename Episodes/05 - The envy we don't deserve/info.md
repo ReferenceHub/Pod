@@ -5,7 +5,7 @@
 - **Apple Podcast** [TXP de Kevin Martin | Herbert Videla en Apple Podcasts](https://itunes.apple.com/pe/podcast/txp/id1338395451?mt=2)
 
 # Sources
-* **Nvidia releases the new serie 2 with RTX**
+* **Nvidia releases the new RTX 20 series**
 	* ![](https://media.giphy.com/media/8UHQLZxe0annUgaL8Y/giphy.gif)
 	* [Nvidia event in Gamescom](https://www.twitch.tv/videos/299680425)
 	* [Nvidia announces RTX 2000 GPU series with ‘6 times more performance’ and ray tracing - The Verge](https://www.theverge.com/2018/8/20/17758724/nvidia-geforce-rtx-2080-specs-pricing-release-date-features)
