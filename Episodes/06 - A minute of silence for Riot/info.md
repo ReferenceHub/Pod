@@ -22,8 +22,8 @@
 - Some clues Riot is cutting back budget:
 	- The MSI was being held in EU studios for most of the tournament.
 	- The NA LCS Spring Finals was held in a 1000 capacity music venue.
-	- Riot casters won't even to go to Korea for Worlds.
-	- Worlds finals are not even held in Seoul or Busan but Incheon instead.
+	- Riot casters won't even to go to Korea for almost all *Worlds*.
+	- Worlds finals are not even held in Seoul or Busan but *Incheon* instead.
 
 ### Nvidia RTX cards
 
@@ -35,7 +35,7 @@
 
 #### Notes
 - SOTTR under 60fps with RTX ?
-	- The new 2080 Ti was running a demo of Shadow of the Tomb Raider with RTX enabled in 1080p and it gets between 30 and 70 fps (FRAPS).
+	- In a video we can see the new 2080 Ti  running a demo of Shadow of the Tomb Raider with RTX enabled in 1080p and it gets between 30 and 70 fps (this video was recorded with **FRAPS!**).
 	- The frame rate would increase significantly when the card didn’t have to render environments, like when looking at a wall. However, the average rate while running around in the world was only 30-45 fps.
 - What the fuck, Tom’s Hardware ?
 	- “When your whole life flashes before your eyes, how much of it do you want to not have ray tracing ?”
@@ -66,7 +66,7 @@
 	- New sizes (inches): 5.3 (AMOLED), 6.3 (POLED (nooooooootch)).
 	- The Pixel 3 to have dual front-facing cameras.
 	- Active Edge™ and wireless charging.
-	- Probably worst secret in history (after iPhone 4).
+	- Probably the worst secret in history (after iPhone 4).
 
 ## “Rapiditos”
 
@@ -81,13 +81,13 @@
 - What problem are they trying to solve? ( Spoiler: None )
 
 
-### Amazon joined Apple at the trillion dollar company club (but not for long)
+### Amazon joined Apple at the trillion dollar club (but not for long)
 
 #### Sources
 - [Amazon Is Worth $1 Trillion and Isn’t Near Finished Growing | Fortune](http://fortune.com/2018/09/05/amazon-stock-today-trillion-valuation-market-cap/)
 
 #### Notes
-- Yes, that happened (Can someone stop them ?).
+- Yes, that happened (Can someone stop them now ?).
 - Faster than Apple (18 years younger).
 
 ### Shooting at EA’s Madden tournament in Jacksonville
@@ -103,5 +103,3 @@
 - The tournament was being live-streamed on Twitch at the time of the shooting. Immediately after, Twitch took down the clip in question.
 - EA has donated $1M to the victims and set up a fund for further donations.
 - Now, Jacob Mitich, a survivor, and many others has filed a lawsuit against EA.
-
-
