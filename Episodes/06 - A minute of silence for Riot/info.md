@@ -1,5 +1,4 @@
-# TXP | Episode 06 - A minute of silence for what we lost
-#personal/pod
+# TXP | Episode 06 - A minute of silence for Riot
 
 ## Listen
 - **Anchor.fm:**  [TXP | Anchor - The easiest way to start a podcast](https://anchor.fm/txpod)
@@ -16,14 +15,14 @@
 - [How Many Viewers Watched The League Of Legends 2017 Championship? Not 60M](https://medium.com/@mannyanekal/how-many-viewers-watched-the-league-of-legends-2017-championship-not-60m-b02e6171d5b)
 
 #### Notes
-- Riot’s official NA and EU interviewers will be in attendance, though
-- Riot has struggled to secure a venue for the finals of Worlds this year
+- Riot’s official NA and EU interviewers will be in attendance, though.
+- Riot has struggled to secure a venue for the finals of Worlds this year.
 - Viewers, unsurprisingly, started to wonder if Riot was cutting costs, possibly in response to the game's perceived drop-off in popularity.
 - "We want to to invest even more than what we do now in the future, but only if it makes sense for the business."
-- Some clues Riot is cutting back budget
-	- MSI being held in EU studios for most of the tournament
-	- NA LCS Spring Finals held in a 1000 capacity music venue
-	- Riot casters won't even to go to Korea for Worlds
+- Some clues Riot is cutting back budget:
+	- The MSI was being held in EU studios for most of the tournament.
+	- The NA LCS Spring Finals was held in a 1000 capacity music venue.
+	- Riot casters won't even to go to Korea for Worlds.
 	- Worlds finals are not even held in Seoul or Busan but Incheon instead.
 
 ### Nvidia RTX cards
@@ -35,14 +34,17 @@
 - [Nvidia Shares RTX 2080 Test Results: 35 - 125% Faster Than GTX 1080](https://www.tomshardware.com/news/nvidia-rtx-2080-gaming-benchmarks-rasterized,37679.html)
 
 #### Notes
-- SOTTR under 60fps with RTX?
-	- 2080 Ti running a demo of Shadow of the Tomb Raider with RTX enabled in 1080p. Between 30 and 70 fps (FRAPS)
-	- The frame rate would increase significantly when the card did not have to render environments, like when looking at a wall. However, the average rate while running around in the world was only 30-45fps
-- What the fuck, Tom’s Hardware?
-	- “When your whole life flashes before your eyes, how much of it do you want to not have ray tracing?”
-- What the fuck, again, Tom’s Hardware?
-- Nvidia’s benchmarks could be a little skewed (DLSS)
+- SOTTR under 60fps with RTX ?
+	- The new 2080 Ti was running a demo of Shadow of the Tomb Raider with RTX enabled in 1080p and it gets between 30 and 70 fps (FRAPS).
+	- The frame rate would increase significantly when the card didn’t have to render environments, like when looking at a wall. However, the average rate while running around in the world was only 30-45 fps.
+- What the fuck, Tom’s Hardware ?
+	- “When your whole life flashes before your eyes, how much of it do you want to not have ray tracing ?”
+- What the fuck, again, Tom’s Hardware ?
+- Nvidia’s benchmarks could be a little skewed (DLSS).
 - No pre-ordering!
+
+**And again**
+![](https://media.giphy.com/media/8UHQLZxe0annUgaL8Y/giphy.gif)
 
 ### Apple (and Google) keynotes are coming - rumor roundup
 
@@ -54,16 +56,16 @@
 
 #### Notes
 - Apple
-	- Sizes (inches): 5.8 (OLED), 6.1 (LCD) and 6.3 (OLED)
-	- New shiny colors: blue, red, orange...
-	- Possible updates: Airpods, Apple Watch and iPad Pro
-	- Prices could range from $700 for the cheapest one to $1200 for the plus version (holy balls)
+	- Three Sizes (inches): 5.8 (OLED), 6.1 (LCD) and 6.3 (OLED).
+	- New shiny colors: blue, red and orange.
+	- Possible updates: Airpods, Apple Watch, MacBook Air and iPad Pro.
+	- Prices could range from $700 for the cheapest one to $1200 for the plus version (holy balls).
 
 - Google
-	- Sizes (inches): 5.3 (AMOLED), 6.3 (POLED (nooooooootch))
-	- Pixel 3 to have dual front-facing cameras
-	- Active Edge™ and wireless charging
-	- Probably worst secret in history (after iPhone 4)
+	- New sizes (inches): 5.3 (AMOLED), 6.3 (POLED (nooooooootch)).
+	- The Pixel 3 to have dual front-facing cameras.
+	- Active Edge™ and wireless charging.
+	- Probably worst secret in history (after iPhone 4).
 
 ## “Rapiditos”
 
@@ -73,7 +75,7 @@
 - [Twitter is testing threaded replies and status indicators](https://www.engadget.com/2018/09/01/twitter-threaded-replies-status-indicators/)
 
 #### Notes
-- Twitter is testing status indicators and threaded replies to tweets
+- Twitter is testing status indicators and threaded replies to tweets.
 - Nobody wants this!
 - What problem are they trying to solve? ( Spoiler: None )
 
@@ -84,8 +86,8 @@
 - [Amazon Is Worth $1 Trillion and Isn’t Near Finished Growing | Fortune](http://fortune.com/2018/09/05/amazon-stock-today-trillion-valuation-market-cap/)
 
 #### Notes
-- Yes, that happened
-- Faster than Apple (18 years younger)
+- Yes, that happened (Can someone stop them ?).
+- Faster than Apple (18 years younger).
 
 ### Shooting at EA’s Madden tournament in Jacksonville
 
@@ -95,10 +97,10 @@
 - [Jacksonville Tribute Stream – How to Watch](https://www.ea.com/games/madden-nfl/madden-nfl-19/news/jacksonville-tribute-stream-how-to-watch)
 
 #### Notes
-- David Katz, 24 opened fire after losing
-- "I think personally I'm one of the better players," said when being asked after winning a Madden tournament in 2017
-- The tournament was being live-streamed on Twitch at the time of the shooting. Twitch took down the clip in question
-- EA has donated $1M to victims and set up a fund for further donations
-- Now, Jacob Mitich, survivor, and many others has filed a lawsuit against EA
+- David Katz, 24, opened fire after losing.
+- "I think personally I'm one of the better players," said when being asked after winning a Madden tournament in 2017.
+- The tournament was being live-streamed on Twitch at the time of the shooting. Immediately after, Twitch took down the clip in question.
+- EA has donated $1M to the victims and set up a fund for further donations.
+- Now, Jacob Mitich, a survivor, and many others has filed a lawsuit against EA.
 
 
