@@ -18,7 +18,7 @@
 - Riot’s official NA and EU interviewers will be in attendance, though.
 - Riot has struggled to secure a venue for the finals of Worlds this year.
 - Viewers, unsurprisingly, started to wonder if Riot was cutting costs, possibly in response to the game's perceived drop-off in popularity.
-- "We want to to invest even more than what we do now in the future, but only if it makes sense for the business."
+- *"We want to to invest even more than what we do now in the future, but only if it makes sense for the business.”.*
 - Some clues Riot is cutting back budget:
 	- The MSI was being held in EU studios for most of the tournament.
 	- The NA LCS Spring Finals was held in a 1000 capacity music venue.
@@ -38,7 +38,7 @@
 	- In a video we can see the new 2080 Ti  running a demo of Shadow of the Tomb Raider with RTX enabled in 1080p and it gets between 30 and 70 fps (this video was recorded with **FRAPS!**).
 	- The frame rate would increase significantly when the card didn’t have to render environments, like when looking at a wall. However, the average rate while running around in the world was only 30-45 fps.
 - What the fuck, Tom’s Hardware ?
-	- “When your whole life flashes before your eyes, how much of it do you want to not have ray tracing ?”
+	- *“When your whole life flashes before your eyes, how much of it do you want to not have ray tracing ?”*
 - What the fuck, again, Tom’s Hardware ?
 - Nvidia’s benchmarks could be a little skewed (DLSS).
 - No pre-ordering!
@@ -99,7 +99,7 @@
 
 #### Notes
 - David Katz, 24, opened fire after losing.
-- "I think personally I'm one of the better players," said when being asked after winning a Madden tournament in 2017.
+- *"I think personally I'm one of the better players"* he said when being asked after winning a Madden tournament in 2017.
 - The tournament was being live-streamed on Twitch at the time of the shooting. Immediately after, Twitch took down the clip in question.
-- EA has donated $1M to the victims and set up a fund for further donations.
+- **EA has donated $1M** to the victims and set up a fund for further donations.
 - Now, Jacob Mitich, a survivor, and many others has filed a lawsuit against EA.
