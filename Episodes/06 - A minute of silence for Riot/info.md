@@ -44,6 +44,7 @@
 - No pre-ordering!
 
 **And again**
+
 ![](https://media.giphy.com/media/8UHQLZxe0annUgaL8Y/giphy.gif)
 
 ### Apple (and Google) keynotes are coming - rumor roundup
