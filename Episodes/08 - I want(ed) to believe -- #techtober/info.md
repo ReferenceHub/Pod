@@ -1,4 +1,4 @@
-# TXP | Episode 08 - #Techtober hype
+# TXP | Episode 08 - I want(ed) to believe -- #techtober
 
 ## Listen
 * **Anchor.fm:**  [TXP | Anchor - The easiest way to start a podcast](https://anchor.fm/txpod)
