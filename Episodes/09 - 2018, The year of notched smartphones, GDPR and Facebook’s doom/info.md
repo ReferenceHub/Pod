@@ -67,7 +67,7 @@
 
 * *Techtober*
 
-Especial thanks to all tech companies for take the decision of making they keynote of October :) ( no sacarms involve )
+	Special thanks to all tech companies for take the decision of making they keynote of October :) ( no sacarms involve )
 
 	* [Apple’s keynote](https://www.theverge.com/2018/9/12/17840950/apple-event-september-2018-news-updates-iphone-xs-watch) New iPhones ! With worse names ! 🎉
 
