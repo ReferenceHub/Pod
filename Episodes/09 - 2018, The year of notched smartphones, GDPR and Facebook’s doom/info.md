@@ -29,7 +29,7 @@
 
 * *March*
 
-	* [GDPR](https://www.wired.com/story/europes-new-privacy-law-will-change-the-web-and-more/) The old question “What information does Google or Facebook has of me?” was answered by the EU, with the new regulations added in March, and also the reason why we have tons of emails of different pages saying they’re will change they /Term of service/. 
+	* [GDPR](https://www.wired.com/story/europes-new-privacy-law-will-change-the-web-and-more/) The old question “What information does Google or Facebook has of me?” was answered by the EU, with the new regulations added in March, and also the reason why we have tons of emails of different pages saying they’re will change they *Term of service*. 
 
 	* [Cambridge Analytica scandal](https://www.theverge.com/2018/4/10/17165130/facebook-cambridge-analytica-scandal) The doom fall of Facebook, part one, Cambridge Analytica. Do you ever wonder what would happen if by any reason you left this little gray area in your applications, where some capable person could go and grab tons of free information of your clients ? Well Facebook did that, at one point, and then Capitan Insight came by and said they shouldn’t be doing that, but it was too late.
 
