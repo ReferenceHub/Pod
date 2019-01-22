@@ -1,4 +1,4 @@
-# TXP | Episode 09 - 2018, The year of notched smartphones, GDPR and Facebook’s doom
+# TXP | Episode 09 - It's rewind time!
 #personal/pod
 
 ## Listen
