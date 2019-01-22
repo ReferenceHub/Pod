@@ -1,5 +1,4 @@
 # TXP | Episode 09 - It's rewind time!
-#personal/pod
 
 ## Listen
 * **Anchor.fm:**  [TXP | Anchor - The easiest way to start a podcast](https://anchor.fm/txpod)
